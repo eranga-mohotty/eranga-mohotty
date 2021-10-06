@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/eranga"><img src="https://api.daily.dev/devcards/80f136152df7466d81bfc8083c2adc89.png?r=q47" width="400" alt="Eranga's Dev Card"/></a>
 
 <!--
 **EJM97/EJM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
