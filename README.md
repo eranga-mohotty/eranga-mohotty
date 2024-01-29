@@ -4,8 +4,7 @@
 
  - I code primarily  in Python, when powershell isn't enough to get the job done
  - I also build Android apps using Flutter
- - Moreover I'm familiar with 
- - 
+ - During my free time I enjoy playing [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) and [Coding Escape](https://www.codingame.com/cooperate) 
 I'm on a journey to explore and contribute to the vast landscape of software development.
 
 ## 🚀 Tech Stacks & Interests
@@ -19,7 +18,7 @@ I'm on a journey to explore and contribute to the vast landscape of software dev
 |Databases|<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,dynamodb" />|
 |Tools|<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />|
 |IDEs|<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,powershell" />|
-
+</div>
 
 ## 🌱 Learning Journey
 
