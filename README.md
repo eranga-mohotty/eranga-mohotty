@@ -1,17 +1,36 @@
-### Hi there 👋
+# Hello, World! 👋
+
+### I'm Eranga Mohotty
+
+ - I code primarily  in Python, when powershell isn't enough to get the job done
+ - I also build Android apps using Flutter
+ - Moreover I'm familiar with 
+ - 
+I'm on a journey to explore and contribute to the vast landscape of software development.
+
+## 🚀 Tech Stacks & Interests
+<div align="center">
+
+| Category | Tools |
+| -------- | -------- |
+|Languages|<img src="https://skillicons.dev/icons?i=py,java,js,cpp,php" />|
+|Frameworks|<img src="https://skillicons.dev/icons?i=flutter,spring,dotnet,react,bootstrap" />|
+|Frontend-web|<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />|
+|Databases|<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,dynamodb" />|
+|Tools|<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />|
+|IDEs|<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,powershell" />|
+
+
+## 🌱 Learning Journey
+
+Graduated from ECU with a CS degree Majoring in Software Engineering and am continuously honing my skills thanks to online resources such as [free Code Camp](https://www.freecodecamp.org/), [CSX](https://csx.codesmith.io/), [Full Stack Open](https://fullstackopen.com/en/) and [codingame](https://www.codingame.com). I appreciate the power of community and continuous learning.
+
+## 🌎 Exploring Connections
+
+I'm fascinated by the synergy between seemingly unrelated concepts. Let's connect the dots between programming, creativity, and innovation. Have an interesting idea or project in mind? Let's discuss!
+
+Feel free to explore my repositories, and let's collaborate to build something amazing! 🚀
+
+
 <a href="https://app.daily.dev/eranga"><img src="https://api.daily.dev/devcards/80f136152df7466d81bfc8083c2adc89.png?r=q47" width="400" alt="Eranga's Dev Card"/></a>
 
-<!--
-**EJM97/EJM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
