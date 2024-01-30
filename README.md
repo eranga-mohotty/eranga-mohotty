@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=2000&background=A0A0A070&center=true&vCenter=true&random=false&width=458&height=40&lines=%22Hello+World!%F0%9F%91%8B%22#gh-light-mode-only)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=2000&background=A0A0A070&center=true&vCenter=true&random=false&width=458&height=40&lines=%22Hello+World!%F0%9F%91%8B%22#gh-dark-mode-only)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=2000&color=247FA7&background=A0A0A000&random=false&width=458&height=40&lines=%22Hello+World!%F0%9F%91%8B%22)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=2000&color=38C2FF&background=A0A0A000&random=false&width=458&height=40&lines=%22Hello+World!%F0%9F%91%8B%22)](https://git.io/typing-svg#gh-dark-mode-only)
 
 ### I'm Eranga Mohotty
 
