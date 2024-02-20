@@ -13,8 +13,8 @@
 
 | Category | Tools |
 | -------- | -------- |
-|Languages|<img src="https://skillicons.dev/icons?i=py,java,js,cpp,php" />|
-|Frameworks|<img src="https://skillicons.dev/icons?i=flutter,spring,dotnet,react,bootstrap" />|
+|Languages|<img src="https://skillicons.dev/icons?i=py,java,ts,cpp,php" />|
+|Frameworks|<img src="https://skillicons.dev/icons?i=flutter,spring,dotnet,react,angular" />|
 |Frontend-web|<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />|
 |Databases|<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,dynamodb" />|
 |Tools|<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />|
