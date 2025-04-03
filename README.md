@@ -5,8 +5,8 @@
 
  - I code primarily in C#, Java and Python
  - I also build Android apps using Flutter
- - Moreover I also like watching tech conferences on youtube, probably my favourite -> [Clean Code - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj){:target="_blank"}
- - During my free time I enjoy playing [Clash of Code](https://www.codingame.com/multiplayer/clashofcode){:target="_blank"} and [Coding Escape](https://www.codingame.com/cooperate){:target="_blank"} 
+ - Moreover I also like watching tech conferences on youtube, probably my favourite -> [Clean Code - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+ - During my free time I enjoy playing [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) and [Coding Escape](https://www.codingame.com/cooperate) 
 <br><br>I'm on a journey to explore and contribute to the vast landscape of software development.
 
 ## 🚀 Tech Stacks & Interests
@@ -24,7 +24,7 @@
 
 ## 🌱 Learning Journey
 
-Graduated from ECU with a CS degree Majoring in Software Engineering and am continuously honing my skills thanks to online resources such as [free Code Camp](https://www.freecodecamp.org/){:target="_blank"}, [CSX](https://csx.codesmith.io/){:target="_blank"}, [Full Stack Open](https://fullstackopen.com/en/){:target="_blank"} and [codingame](https://www.codingame.com){:target="_blank"}. I appreciate the power of community and continuous learning.
+Graduated from ECU with a CS degree Majoring in Software Engineering and am continuously honing my skills thanks to online resources such as [free Code Camp](https://www.freecodecamp.org/), [CSX](https://csx.codesmith.io/), [Full Stack Open](https://fullstackopen.com/en/) and [codingame](https://www.codingame.com). I appreciate the power of community and continuous learning.
 
 ## 🌎 Exploring Connections
 
