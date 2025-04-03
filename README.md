@@ -3,8 +3,9 @@
 
 ### I'm Eranga Mohotty
 
- - I code primarily  in Python, when powershell isn't enough to get the job done
+ - I code primarily in C#, Java and Python
  - I also build Android apps using Flutter
+ - Moreover I also like watching tech conferences on youtube, probably my favourite -> [Clean Code - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
  - During my free time I enjoy playing [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) and [Coding Escape](https://www.codingame.com/cooperate) 
 <br><br>I'm on a journey to explore and contribute to the vast landscape of software development.
 
@@ -13,7 +14,7 @@
 
 | Category | Tools |
 | -------- | -------- |
-|Languages|<img src="https://skillicons.dev/icons?i=py,java,ts,cpp,php" />|
+|Languages|<img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php" />|
 |Frameworks|<img src="https://skillicons.dev/icons?i=flutter,spring,dotnet,react,angular" />|
 |Frontend-web|<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />|
 |Databases|<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,dynamodb" />|
